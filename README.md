@@ -2,7 +2,7 @@
 This repository is part of the BiotrAIn course 2026, dictated in Rosario, Argentina. For the original MultimerMapper method, go to: https://github.com/elviorodriguez/MultimerMapper.
 
 To run the tutorial, open the following Colab Notebook: 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gh/elviorodriguez/BiotrAIn_MultimerMapper/blob/main/MM_notebook_BiotrAIn.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elviorodriguez/BiotrAIn_MultimerMapper/blob/main/MM_notebook_BiotrAIn.ipynb)
 
 ![image](https://github.com/elviorodriguez/MultimerMapper/blob/main/report/multimermapper_logo.png?raw=true)
 
