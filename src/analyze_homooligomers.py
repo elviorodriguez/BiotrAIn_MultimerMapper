@@ -243,7 +243,7 @@ def find_homooligomerization_breaks(pairwise_2mers_df, pairwise_Nmers_df, pairwi
             logger.error( 'Unknown KeyError encountered inside find_homooligomerization_breaks')
             logger.error(f'   - KeyError encountered: {e}')
             logger.error( '   - pairwise_Nmers_df was expecting to be empty:')
-            logger.error(f'   - pairwise_Nmers_df content:n\ {pairwise_Nmers_df}')
+            logger.error(f'   - pairwise_Nmers_df content:\n {pairwise_Nmers_df}')
             logger.error( '   - MultimerMapper will continue...')
             logger.error( '   - Results may be unreliable or it will crash later...')
 
@@ -251,7 +251,7 @@ def find_homooligomerization_breaks(pairwise_2mers_df, pairwise_Nmers_df, pairwi
         logger.error(f"An unexpected error occurred inside find_homooligomerization_breaks:")
         logger.error(f"   - Error: {e}")
         logger.error( "   - get_homo_N_mers_pairwise_df() failed analyzing pairwise_Nmers_df")
-        logger.error(f"   - pairwise_Nmers_df content:n\ {pairwise_Nmers_df}")
+        logger.error(f"   - pairwise_Nmers_df content:\n {pairwise_Nmers_df}")
         logger.error( '   - MultimerMapper will continue anyways...')
         logger.error( '   - Results may be unreliable or the program will crash later...')
            
