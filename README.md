@@ -1,3 +1,6 @@
+# BiotrAIn course - AlphaFold module
+This repository is part of the BiotrAIn course 2026, dictated in Rosario, Argentina. For the original MultimerMapper method, go to: https://github.com/elviorodriguez/MultimerMapper.
+
 ![image](https://github.com/elviorodriguez/MultimerMapper/blob/main/report/multimermapper_logo.png?raw=true)
 
 # What is MultimerMapper?
